@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Photool",
     description: "Advanced photo editing web application",
-    url: "https://www.photool.yassinolouati.me",
+    url: "photool.yassinolouati.me",
     type: "website",
     images: [
       {
