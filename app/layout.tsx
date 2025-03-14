@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     type: "website",
     images: [
       {
-        url: "https://www.photool.yassinolouati.me/og-image.jpg",
+        url: "/ph.png",
         width: 800,
         height: 600,
         alt: "Photool",
